@@ -7,17 +7,29 @@ It is meant for ongoing 1-1 meetings, progress reviews, and major research miles
 
 ## 1. Project Overview  
 **Project Lead:** 
-Guanqiao Feng 
+
+- Guanqiao Feng 
+
 **Team Members:**  
-Sisira Kadambat Nair
-Matthew Boccalon
-Michael Tran
+
+- Sisira Kadambat Nair
+
+- Matthew Boccalon
+
+- Michael Tran
+
 **Project Start Date:**  
-Jan 15 2025
+
+- Jan 15 2025
+
 **Target End Date:**  
-Dec 15 2026
+
+- Dec 15 2026
+
 **Summary (3–5 sentences):**  
-With the rapid expansion of pharmacogenomics datasets in patient-derived xenograft (PDX) models, inconsistencies in data curation, storage, and analysis workflows hinder reproducibility and data reuse. This project deploys the open-source Xeva R/Bioconductor framework and XevaDB web platform to provide standardized, FAIR-compliant pharmacogenomics infrastructure for PDX model management and analysis, enabling scalable drug-response profiling and mechanistic discovery.
+
+- With the rapid expansion of pharmacogenomics datasets in patient-derived xenograft (PDX) models, inconsistencies in data curation, storage, and analysis workflows hinder reproducibility and data reuse. This project deploys the open-source Xeva R/Bioconductor framework and XevaDB web platform to provide standardized, FAIR-compliant pharmacogenomics infrastructure for PDX model management and analysis, enabling scalable drug-response profiling and mechanistic discovery.
+
 ---
 
 ## 2. Annual Goals (High-Level)
